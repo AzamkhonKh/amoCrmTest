@@ -1,0 +1,18 @@
+{
+    "name": "azamkhon/amo-crm",
+    "description": "for test work",
+    "authors": [
+        {
+            "name": "Azamkhon KH",
+            "email": "azamkhon.kh@gmail.com"
+        }
+    ],
+    "keywords": [
+        "api client",
+        "client"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.* || 7.*",
+        "php": ">=7.1"
+    }
+}
